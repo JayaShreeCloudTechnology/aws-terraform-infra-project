@@ -3,7 +3,7 @@ name: Terraform AWS EC2 Deployment
 on:
   push:
     branches:
-      - main
+      - aws-terraform-ec2
 
 jobs:
   terraform:
